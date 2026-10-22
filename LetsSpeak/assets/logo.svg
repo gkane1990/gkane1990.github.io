@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="512" height="512" role="img" aria-label="LetsSpeak! logo">
+  <rect width="108" height="108" rx="24" fill="#F5F7FB"/>
+  <path fill="#1B66D1" d="M38,28 H70 A10,10 0 0 1 80,38 V60 A10,10 0 0 1 70,70 H46 L33,83 V70 H38 A10,10 0 0 1 28,60 V38 A10,10 0 0 1 38,28 Z"/>
+  <g stroke-width="6" stroke-linecap="round" fill="none">
+    <path stroke="#FFFFFF" d="M41,42 V54"/>
+    <path stroke="#FF6B6B" d="M54,36 V60"/>
+    <path stroke="#FFFFFF" d="M67,42 V54"/>
+  </g>
+</svg>
